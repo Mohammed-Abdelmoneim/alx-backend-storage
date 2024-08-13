@@ -1,0 +1,2 @@
+// update 
+db.school.find({name:"Holberton school"}).update({address: "972 Mission street"})
